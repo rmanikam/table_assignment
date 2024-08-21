@@ -1,0 +1,337 @@
+.CollegeContainer {
+  display: flex;
+  height: 255px;
+  width: 611px;
+}
+.CollegeContainer tr img {
+  margin-right: 10px;
+}
+
+.locationContainer {
+  display: flex;
+  height: 100px;
+}
+#locationName {
+  position: absolute;
+  top: -85px;
+  left: 64px;
+  width: 500px;
+}
+
+.name p {
+  width: 342px;
+}
+.degreeContainer {
+  display: flex;
+  height: 167px;
+}
+
+#degreeName {
+  position: absolute;
+  top: -87px;
+  left: 7px;
+}
+
+#degreeName img {
+  position: absolute;
+  top: 43px;
+  left: 322px;
+}
+
+#degreeNameTwo {
+  position: absolute;
+  top: 7px;
+  left: 7px;
+}
+
+.stream {
+  background: yellow;
+  width: 300px;
+  height: 63px;
+  margin-left: 48px;
+  margin-top: 39px;
+}
+.stream p {
+  margin-left: 10px;
+}
+.streamTwo {
+  background: yellow;
+  width: 354px;
+  height: 63px;
+  margin-left: -18px;
+  margin-top: 36px;
+}
+.streamTwo p {
+  margin-left: 10px;
+}
+.streamTwo img {
+  position: absolute;
+  top: 36px;
+  left: 317px;
+}
+.applyContainerOne {
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  top: 31px;
+  left: 33px;
+  height: 49px;
+}
+.applyContainerTwo {
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  top: 117px;
+  left: -29px;
+  height: 49px;
+}
+.applyContainerThree {
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  top: 250px;
+  left: -74px;
+  height: 49px;
+}
+
+.applyContainerFour {
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  top: 217px;
+  left: -70px;
+  height: 49px;
+}
+.applyContainerFive {
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  top: 1387px;
+  left: 88px;
+  height: 49px;
+}
+.applyContainerSix {
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  top: 1647px;
+  left: 88px;
+  height: 49px;
+}
+.applyContainerSeven {
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  top: 1907px;
+  left: 88px;
+  height: 49px;
+}
+.applyContainerEight {
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  top: 2166px;
+  left: 88px;
+  height: 49px;
+}
+.applyContainerNine {
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  top: 2425px;
+  left: 88px;
+  height: 49px;
+}
+.applyContainerTen {
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  top: 2687px;
+  left: 88px;
+  height: 49px;
+}
+#submit {
+  display: flex;
+}
+#submitOne {
+  display: flex;
+  margin-top: 10px;
+}
+#submitTwo {
+  display: flex;
+  margin-top: 10px;
+}
+#submitThree {
+  display: flex;
+  margin-top: 10px;
+}
+#submitFour {
+  display: flex;
+}
+#submitFive {
+  display: flex;
+}
+
+.apply {
+  margin-right: 80px;
+  margin-left: 24px;
+  display: flex;
+  background: orange;
+}
+
+.apply img {
+  margin-top: 22px;
+}
+.apply p {
+  width: 100px;
+}
+.applyOne {
+  margin-right: 80px;
+  margin-left: 24px;
+  display: flex;
+  background: orange;
+}
+
+.applyOne img {
+  margin-top: 22px;
+}
+.applyOne p {
+  width: 100px;
+}
+.applyTwo {
+  margin-right: 80px;
+  margin-left: 24px;
+  display: flex;
+  background: orange;
+}
+
+.applyTwo img {
+  margin-top: 22px;
+}
+.applyTwo p {
+  width: 100px;
+}
+.download {
+  margin-right: 107px;
+  display: flex;
+  background: lightgreen;
+}
+
+.download img {
+  margin-top: 22px;
+  margin-left: 10px;
+}
+
+.download p {
+  width: 150px;
+}
+
+.compare {
+  display: flex;
+}
+
+.compare img {
+  margin-top: 22px;
+  margin-left: -70px;
+  background: blue;
+  border: 1px solid black;
+}
+
+thead {
+  background: lightblue;
+}
+
+#collegeFees {
+  color: #17d117;
+}
+
+#placementAverage {
+  color: #17d117;
+}
+#placementMax {
+  color: #17d117;
+}
+.FeeContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 319px;
+  height: 220px;
+}
+
+.degreeInContainer {
+  margin-top: 10px;
+}
+
+.fees {
+  display: flex;
+}
+
+.fees p {
+  margin-right: 10px;
+}
+
+.compare {
+  display: flex;
+}
+
+.compareContainer {
+  display: flex;
+}
+
+.compareContainer img {
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+.one {
+  display: flex;
+  top: 298px;
+  position: absolute;
+  left: 63px;
+}
+
+.two {
+  display: flex;
+  top: 470px;
+  position: absolute;
+  left: 127px;
+}
+
+.three {
+  display: flex;
+  top: 600px;
+  position: absolute;
+  left: 156px;
+}
+
+.four {
+  display: flex;
+  top: 900px;
+  position: absolute;
+  left: 156px;
+}
+
+.five {
+  margin-top: 500px;
+}
+
+.six {
+  margin-top: 600px;
+}
+
+.seven {
+  margin-top: 700px;
+}
+
+.eight {
+  margin-top: 800px;
+}
+
+.nine {
+  margin-top: 900px;
+}
+
+.ten {
+  margin-top: 1000px;
+}
